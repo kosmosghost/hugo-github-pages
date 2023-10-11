@@ -1,4 +1,9 @@
-resource:
+retroblog:
   source: "Retroblog.io"
   description: "Creating a Hugo Theme From Scratch"
   link: "https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/"
+
+linuxmobileapps:
+  source: "LinuxPhoneApps"
+  description: "A very long list of apps that work on Mobile Linux"
+  link: "https://linuxphoneapps.org/"
