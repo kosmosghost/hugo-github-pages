@@ -1,5 +1,5 @@
 ---
-title: "A Picture Book of all the Apps on Mobile Linux"
+title: "A Picture Book of some of the Apps on Mobile Linux"
 date: 2023-10-10T00:53:49-07:00
 draft: false
 ---
