@@ -126,7 +126,7 @@ I am cheating here, because I still use the Mastodon web app, but Tokodon has co
 *Tokodon*
 
 ![](/images/mobile_linux_apps/mastodon.png)
-*The Mastodon Web App.
+*The Mastodon Web App.*
 
 ## Matrix:
 We don't have a great Matrix client, *yet*. Neochat, and Fluffychat come close.
