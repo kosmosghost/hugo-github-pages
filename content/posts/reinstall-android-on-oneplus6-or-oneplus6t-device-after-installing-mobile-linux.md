@@ -18,9 +18,11 @@ Enter into the directory and enter these commands into the terminal.
 ```
     fastboot -w
     fastboot flash --slot=all boot boot.img
-    fastboot flash --slot=all otbo dtbo.img
     fastboot flash --slot=all modem modem.img
     fastboot flash --slot=all system system.img
-    fastboot flash --slot=all vendor vendor.img
+    fastboot flash dtbo_a dtbo.img
+    fastboot flash dtbo_b dtbo.img
+    fastboot flash vendor_a vendor.img
+    fastboot flash vendor_b vendor.img
     fastboot reboot bootloader
 ```

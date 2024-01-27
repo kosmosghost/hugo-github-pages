@@ -24,3 +24,13 @@ name = "Resources"
 pre = "tag"
 url = "/resources/"
 weight = 3
+[[menu.interests]]
+name = "Podcasts"
+pre = "tag"
+url = "/interests/podcasts/"
+weight = 1
+[[menu.interests]]
+name = "RSS"
+pre = "tag"
+url = "/interests/rss/"
+weight = 1
