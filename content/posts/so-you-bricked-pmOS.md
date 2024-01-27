@@ -40,6 +40,8 @@ Connect the phone and computer together with USB. The root partition will be the
 
 Run the following commands, replacing <PATH> with the full path to the pmOS mount. In my case `sudo chroot /mnt/pmOS_root qemu-aarch64-static <COMMAND>`
 
+Or copy and replace <PATH> with the mounted path.
+
 `sudo chroot <PATH> qemu-aarch64-static apk update`
 
 `sudo chroot <PATH> qemu-aarch64-static apk upgrade`
